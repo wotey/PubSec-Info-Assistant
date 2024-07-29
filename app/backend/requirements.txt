@@ -26,3 +26,4 @@ langchain-openai == 0.1.7
 pytest==8.2.1
 python-dotenv==1.0.1
 langchain-community==0.2.9 
+
